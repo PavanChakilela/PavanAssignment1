@@ -11,5 +11,4 @@ Program2
 #printed in the the reverse order with a space between first name and last name
 
 Program3
-#Write a Python program to find the volume of a sphere with diameter 12 cm.
-# V=4/3 * π * r3
+#Write a Python program to find the volume of a sphere with diameter 12 cm. V=4/3 * π * r3
